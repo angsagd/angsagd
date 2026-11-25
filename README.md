@@ -72,7 +72,7 @@
 ## 📜 License
 
 Licensed under the MIT License.
-Feel free to fork this repository, but please don't fork my personality.
+Feel free to fork every repository, but please don't fork my personality.
 
 ---
 
