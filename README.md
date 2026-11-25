@@ -49,7 +49,6 @@
 - Making enterprise systems slightly less complicated.
 - Turning years of technical experience into books.
 - Learning bass lines that are harder than they sound.
-- Trying to finish existing projects before starting new ones.
 
 ## 🐛 Known Bugs
 
