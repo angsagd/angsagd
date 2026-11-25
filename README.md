@@ -69,8 +69,6 @@
 - AI is a copilot, not a replacement for thinking.
 - Life is too short for bad music and undocumented APIs.
 
----
-
 ## 📜 License
 
 Licensed under the MIT License.
